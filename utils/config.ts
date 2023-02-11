@@ -120,7 +120,7 @@ export const NETWORKS: Record<string, Network> = {
     emoji: "🧪",
     chainId: "69",
   },
-  abritrum: {
+  arbitrum: {
     title: "Arbitrum",
     rpcUrl: "https://arb1.arbitrum.io/rpc",
     explorerUrl: "https://arbiscan.io/",
@@ -128,7 +128,7 @@ export const NETWORKS: Record<string, Network> = {
     emoji: "🔵",
     chainId: "42161",
   },
-  arbutrum_testnet: {
+  arbitrum_testnet: {
     title: "Arbitrum Testnet",
     rpcUrl: "https://rinkeby.arbitrum.io/rpc",
     explorerUrl: "https://testnet.arbiscan.io/",
